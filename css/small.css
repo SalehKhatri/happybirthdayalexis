@@ -11,5 +11,5 @@ aside.right,aside.left{
     float: inherit;
 }
 section.map{
-max-width:100%
+ max-width:vw;
 }
