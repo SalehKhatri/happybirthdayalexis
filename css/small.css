@@ -10,3 +10,6 @@ aside.right,aside.left{
     text-align: center;
     float: inherit;
 }
+section.map{
+max-width:100%
+}
